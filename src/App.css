@@ -27,6 +27,21 @@
 .App-link {
   color: #61dafb;
 }
+.mainIntro{
+  
+  /* background: url(./Images/mainBackground.jfif) center center/cover no-repeat; */
+}
+.mainIntro video{
+  height: 100vh;
+  width: 100%;
+}
+
+.mainIntro p{
+  color: white;
+  font-size: 5em;
+  vertical-align: middle;
+}
+
 
 @keyframes App-logo-spin {
   from {
